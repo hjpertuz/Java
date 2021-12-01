@@ -1,0 +1,5 @@
+Abcc1;Vpar-Guatapuri;Valledupar;Cesar;Portatil hp;5000;100;4900
+Abcc1;Vpar-Guatapuri;Valledupar;Cesar;Televisor LG;2000;400;1600
+Abcc1;Vpar-Guatapuri;Valledupar;Cesar;Televisor LG;2000;400;1600
+Abcc2;Vpar-Guatapuri;Valledupar;Cesar;Televisor LG;2000;400;1600
+Abcc2;Vpar-Guatapuri;Valledupar;Cesar;Televisor LG;2000;400;1600
