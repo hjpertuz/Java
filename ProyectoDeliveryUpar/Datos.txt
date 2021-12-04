@@ -1,0 +1,3 @@
+andres;null;null;null;null;null;andres;123;
+jose;null;null;null;null;null;jose;123;
+andres;null;null;null;null;null;josea;321;

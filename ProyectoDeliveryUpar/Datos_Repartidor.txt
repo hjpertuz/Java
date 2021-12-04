@@ -1,0 +1,4 @@
+1010;jose;Valledupar;A;josea;jose;
+2020;jose p;Barraquilla;B;joseb;123;
+3030;andres;Medellin;C;andresc;321;
+7546455555;maria;Valledupar;B;maria;123123;
